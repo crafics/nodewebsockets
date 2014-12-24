@@ -17,14 +17,11 @@ sudo apt-get install -y mongodb-org
 
 sudo npm update -g npm
 
-sudo npm install -g bower
-sudo npm install -g grunt-cli
-sudo npm install -g yo
-sudo npm install -g generator-meanjs
+# sudo npm install -g bower
+# sudo npm install -g yo
+# sudo npm install -g generator-meanjs
 
 cd /var/www
-git clone https://github.com/crafics/nodewebsockets.git
-
-
-
-#grunt
+# git clone https://github.com/crafics/nodewebsockets.git
+# sudo npm install -g grunt-cli
+# grunt

@@ -5,5 +5,11 @@
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
   }
 }

@@ -15,4 +15,7 @@
 
 //= require lib/jquery-2.1.1.min
 //= require lib/bootstrap.min
+//= require lib/d3.min
+//= require lib/datamaps.world.min
+//= require lib/topojson.v1.min
 //= require main

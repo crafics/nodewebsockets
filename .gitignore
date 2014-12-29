@@ -13,6 +13,7 @@ logs
 results
 tmp
 
+config
 npm-debug.log
 node_modules
 .c9

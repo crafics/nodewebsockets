@@ -17,7 +17,7 @@ $(document).ready(function() {
     });
     
     var colors = d3.scale.category10();
-    
+    /*
     window.setInterval(function() {
       basic_choropleth.updateChoropleth({
         USA: colors(Math.random() * 10),
@@ -29,4 +29,5 @@ $(document).ready(function() {
         IND: colors(Math.random() * 50),
       });
     }, 2000);
+    */
 });

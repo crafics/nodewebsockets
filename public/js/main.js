@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var basic_choropleth = new Datamap({
-      element: document.getElementById("basic_choropleth"),
+      element: document.getElementById("container"),
       projection: 'mercator',
       fills: {
         defaultFill: "#ABDDA4",
